@@ -1,6 +1,6 @@
 # Voron Mods
 
-## Magnetic Hinges
+## 270° Magnetic Hinges
 
 These hinges are designed to go together with [quick-release panel latches].
 They open 270° and leave just enough clearance around the latches. Plus, they
