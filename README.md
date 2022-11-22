@@ -2,6 +2,9 @@
 
 ## 270° Magnetic Hinges
 
+![](270degMagneticHinges/270degMagneticHinges.jpg)
+![](270degMagneticHinges/270degMagneticHinges_open.jpg)
+
 These hinges are designed to go together with [quick-release panel latches].
 They open 270° and leave just enough clearance around the latches. Plus, they
 are magnetic, so they detach quickly.
@@ -22,6 +25,8 @@ Three options for printing:
 [quick-release panel latches]: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020
 
 ## Invisible LED rails
+
+![](InvisibleLedRail/InvisibleLedRail.jpg)
 
 I wanted to have LED rails that provide lots of light to see what I'm printing,
 but don't obstruct the view and are generally as invisible as possible. I found
