@@ -50,4 +50,4 @@ flat, otherwise they will delaminate. The springs should just slide into the
 grooves.
 
 [8mm COB LED strips]: https://www.amazon.de/gp/product/B089N6FLM1/
-[Hidden Cable Z Beld Covers]: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Akio/cable_routing_z_belt_cover
+[Hidden Cable Z Belt Covers]: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Akio/cable_routing_z_belt_cover
